@@ -1,0 +1,11 @@
+Player: ha, 6 fish caught
+Other Players' Data
+Player 0: 5
+Player 1: 2
+Player 2: 3
+Player 3: 4
+Player 4: 3
+Player 5: 5
+Player 6: 4
+Player 7: 5
+Player 8: 5
